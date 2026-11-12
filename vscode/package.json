@@ -835,6 +835,6 @@
   },
   "dependencies": {
     "vscode-languageclient": "^9.0.1",
-    "vscode-jsonrpc": "^8.2.1"
+    "vscode-jsonrpc": "^10.0.0"
   }
 }

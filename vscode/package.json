@@ -812,7 +812,7 @@
     "ws": ">= 7.4.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.28.5",
+    "@babel/core": "^8.1.0",
     "@eslint/js": "^9.39.1",
     "@types/mocha": "^10.0.10",
     "@types/node": "24.x",
